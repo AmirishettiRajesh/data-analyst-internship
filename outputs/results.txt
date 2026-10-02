@@ -1,0 +1,32 @@
+DATA SCIENCE FUNDAMENTALS ASSESSMENT - RESULTS
+Dataset: student_performance.csv (20 records, 8 columns)
+All records are fictional and created for this learning exercise.
+
+Exam_Score descriptive statistics:
+Mean                            78.10
+Median                          77.50
+Mode                            75.00
+Minimum                         58.00
+Maximum                         96.00
+Range                           38.00
+Variance (sample)              115.46
+Standard deviation (sample)     10.75
+25th percentile                 71.50
+75th percentile                 86.25
+
+Exam score aggregation by Gender:
+            Student_Count  Mean_Exam_Score  Median_Exam_Score
+Gender                                                       
+Female                  9            79.22               80.0
+Male                    9            75.11               75.0
+Non-binary              2            86.50               86.5
+
+Study_Hours / Exam_Score Pearson correlation: 0.994
+NumPy score mean/min/max/sample standard deviation: 78.10 / 58 / 96 / 10.75
+Controlled cleaning (missing before/after): 1/0
+Controlled cleaning (duplicates before/after): 1/0
+Exam score outliers by the 1.5*IQR rule: 0
+
+Interpretation: descriptive statistics and correlations describe this constructed sample only; they do not prove causation.
+Charts saved: 6 in outputs\charts
+Report saved: report\Task_1_Data_Science_Fundamentals_Report.docx
