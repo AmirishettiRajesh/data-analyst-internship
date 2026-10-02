@@ -1,0 +1,16 @@
+﻿Employee_ID,Department,Experience_Years,Salary,Sales_Target_Met,Performance_Score
+E101,Sales,2,50000,Yes,78.5
+E102,Marketing,5,65000,Yes,85.0
+E103,Sales,1,45000,No,62.0
+E104,Engineering,3,72000,Yes,90.5
+E105,Sales,7,88000,Yes,94.0
+E106,Engineering,4,75000,Yes,88.0
+E107,Marketing,2,52000,No,69.5
+E108,HR,6,60000,Yes,81.0
+E109,Sales,5,70000,Yes,87.5
+E110,Engineering,8,95000,Yes,96.0
+E111,HR,3,51000,No,65.0
+E112,Marketing,6,71000,Yes,89.0
+E113,Sales,4,63000,Yes,82.5
+E114,Engineering,2,68000,No,71.0
+E115,HR,5,58000,Yes,79.0

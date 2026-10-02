@@ -1,0 +1,18 @@
+=== DATASET SUMMARY STATISTICS ===
+       Experience_Years        Salary  Performance_Score
+count         15.000000     15.000000          15.000000
+mean           4.200000  65533.333333          81.233333
+std            2.042408  13917.443662          10.407529
+min            1.000000  45000.000000          62.000000
+25%            2.500000  55000.000000          74.750000
+50%            4.000000  65000.000000          82.500000
+75%            5.500000  71500.000000          88.500000
+max            8.000000  95000.000000          96.000000
+
+=== AVERAGE METRICS BY DEPARTMENT ===
+                   Salary  Performance_Score
+Department                                  
+Engineering  77500.000000          86.375000
+HR           56333.333333          75.000000
+Marketing    62666.666667          81.166667
+Sales        63200.000000          80.900000
